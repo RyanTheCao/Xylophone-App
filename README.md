@@ -1,1 +1,3 @@
-Hello! I made this Xylophone app with the help of the London App Brewery. Follow me on Instagram: @RyanTheCao
+# Xylophone App
+
+This is a xylophone app made with the help of the course of the London App Brewery. I have sent constraints on the project, so the app should work on every single screen.
